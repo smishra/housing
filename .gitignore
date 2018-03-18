@@ -1,0 +1,7 @@
+lib/
+share/
+.ipynb*
+bin/
+pip-*
+__pycache__
+*.pyc
