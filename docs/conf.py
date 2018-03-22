@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'sample'
-copyright = u'2012, Kenneth Reitz'
+copyright = u'2018, Sanjeev Mishra'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -184,7 +184,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'sample.tex', u'sample Documentation',
-   u'Kenneth Reitz', 'manual'),
+   u'Sanjeev Mishra', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
